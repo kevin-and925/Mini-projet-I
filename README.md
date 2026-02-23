@@ -25,8 +25,8 @@ capable de donner un avis "Positif" ou "Négatif"
 (10)-Considération relatives au déploiement des systèmes embarqués
 
 # II- Instruction pour le téléchargement et le prétraitement des données
-Pour ce projet, il faudrait tout d'abor commencer par vérifier si on a
-instaler nos bibliothèques qui sont : 
+Pour ce projet, il faudrait tout d'abord commencer par vérifier si on a
+instaler nos bibliothèques dans notre Anaconda ces bliothèques sont : 
 `pip install pandas`
 `pip install numpy`
 `pip install scikit-learn`
@@ -35,3 +35,9 @@ instaler nos bibliothèques qui sont :
 `pip install nltk`
 `pip install codecarbon`
 `pip install shap`
+Une fois les bibliothèques installer et vérifier, on va par la suite procéder
+au téléchargement du fichier IMBD directement sur le site indiquer: 
+[Large Movie Review Dataset] [https://ai.stanford.edu/%7Eamaas/data/sentiment/]
+il faut que l'utilisateur qui veut réaliser ce projet se rassure 
+que ce fichier soit placer au bonne endroit
+
