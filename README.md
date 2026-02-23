@@ -41,3 +41,6 @@ au téléchargement du fichier IMBD directement sur le site indiquer:
 il faut que l'utilisateur qui veut réaliser ce projet se rassure 
 que ce fichier soit placer au bonne endroit
 
+# III- Étapes de formation et d'évaluation 
+
+
