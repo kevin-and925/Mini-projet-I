@@ -1,5 +1,10 @@
 # Mini-projet-I : Analyse des sentiments pour les critiques des films
 
+## Participants
+OMOUALA André Kevin(OMOA15099900)
+BOCOUM Aoua(BOCA65570200)
+Agossou Fulbert(AGOF722040000)
+
 ## Description du Mini-Projet-I
 
 Dans ce projet, on va devoir créer un système d'analayse des sentiments
