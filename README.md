@@ -1,11 +1,20 @@
-# Mini-projet-I
+# Mini-projet-I : Analyse des sentiments pour les critiques des films
 
-##Nom du projet
-Création d’un système d’analyse des sentiments pour les critiques de films
+## Description du Mini-Projet-I
 
-##Description du Mini-Projet I
-Dans ce mini-projet I, on va devoir réaliser différentes tâches 
-afin de pouvoir distinguer les différents sentiments, ainsi que 
-les avis des diffèrents films qui sont contenue dans le fichier IMDB.
-Pour le faire on va aussi devoir rajouter certaines bibliothèques 
-qui seront mis en lumiére un peu plus bas.
+Dans ce projet, on va devoir créer un système d'analayse des sentiments
+qui sera capable de donner les avis ainsi que les critiques des films 
+qui sont contenue dans le fichier IMDB. Notre système va devoir être 
+capable de donner un avis "Positif" ou "Négatif"
+
+## Tâches spécifiques à réaliser
+(1)-Préparation des données
+(2)-Prétraitement du texte
+(3)-Extraction de caractéristique
+(4)-Formation des modéles
+(5)-Évaluation du modèle
+(6)-Optimisation des hyperparamètres
+(7)-Analyse de la courbe d'apprentissage
+(8)-Analyse de l'empreinte carbone avec CodeCarbon
+(9)-Considérations éthiques et explicabilité
+(10)-Considération relatives au déploiement des systèmes embarqués
