@@ -23,3 +23,15 @@ capable de donner un avis "Positif" ou "Négatif"
 (8)-Analyse de l'empreinte carbone avec CodeCarbon
 (9)-Considérations éthiques et explicabilité
 (10)-Considération relatives au déploiement des systèmes embarqués
+
+# II- Instruction pour le téléchargement et le prétraitement des données
+Pour ce projet, il faudrait tout d'abor commencer par vérifier si on a
+instaler nos bibliothèques qui sont : 
+`pip install pandas`
+`pip install numpy`
+`pip install scikit-learn`
+`pip install matplotlib`
+`pip install seaborn`
+`pip install nltk`
+`pip install codecarbon`
+`pip install shap`
