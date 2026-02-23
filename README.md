@@ -1,4 +1,5 @@
-# Mini-projet-I : Analyse des sentiments pour les critiques des films
+# I-Présentation et objectif du projet
+## Mini-projet-I : Analyse des sentiments pour les critiques des films
 
 ## Participants
 OMOUALA André Kevin(OMOA15099900)
