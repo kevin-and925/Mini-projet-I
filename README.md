@@ -42,11 +42,11 @@ il faut que l'utilisateur qui veut réaliser ce projet se rassure
 que ce fichier soit placer au bonne endroit. Par la suite
 concernant le prétraitement de données on aura : 
 
-(1)le Nettoyage de texte(suppression des balises, conversion en minuscules, suppression de la ponctuation et des caractères spéciaux, ainsi que la suppression)
-(2)la tokenization(on parle la de la division du texte en mots individuels)
-(3)Suppression des stopwords
-(4)Steming(on parle là de la réduction des mots)
-(5)Vectorization(on parle de TF-IDF)
+-le Nettoyage de texte(suppression des balises, conversion en minuscules, suppression de la ponctuation et des caractères spéciaux, ainsi que la suppression)
+-la tokenization(on parle la de la division du texte en mots individuels)
+-Suppression des stopwords
+-Steming(on parle là de la réduction des mots)
+-Vectorization(on parle de TF-IDF)
 
 
 # III- Étapes de formation et d'évaluation 
