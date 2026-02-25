@@ -74,7 +74,25 @@ mémoire et tout ce qui l'entoure
 
 ## VII- Responsabilités liées à la publication du code :
 7-1 Responsabiltés
+-Garder un code propre, clair et qui fonctionne bien.
+-Vérifie qu'il n'y a pas de données sensibles.
+-être vigilant sur la reproductibilité des résultats.
 
+7-2 Licences open source
+-MIT License
+-Cette license est utilisé parce que elle permet a d'autres : 
+->De réutiliser le code
+->De modifier le code
+
+7-3 Pratique de publication
+-A travers le dépôt public
+-A travers la documentation
+
+7-4 Protocole de signalement et correction des bogues
+-Signaler un bug
+-Créer une branche pour la correction Soumettre une pull request
+-Mettre a jour la documentation 
+-modifier la communauté des corrections majeures
 
 
 
