@@ -50,5 +50,36 @@ concernant le prétraitement de données on aura :
 
 
 # III- Étapes de formation et d'évaluation 
+Dans cet partie on va voir ce qui suit 
+
+1-la division des données(il s'agit de séparer le dataset en ensemble d'entrainement)
+2-formation des modéles(on parle des modéles classiques comme des modéles avancés)
+3-l'évaluation(qui comprends les matrices de confusion, F1-Score, etc...)
+
+## IV- Résultats de l'analyse de l'empreinte carbone
+Dans notre Anaconda on déjà télécharger la bibliothèques adéquates. 
+Son utilisation va nous permettre de mesurer l'impact énergetique
+"from codecarbon import EmissionsTracker"
+
+## V- Considérations éthiques et méthodes d'explicabilité
+Ici il s'agit de respecter la vie privée des utilisateurs et de faire la prévention
+des biais qui sont liés au genre, a la race ou à d'autres caractéristiques
+pour mieux comprendre l'explicabilité on doit utiliser la bibliothèques
+"import shap"
+
+## VI- Aperçu du déploiement des sytèmes embarqués
+On va faire la conversion du modèle qui sera comptabible avec un microcontrôleurs(Arduino)
+en prenant en compte certaines contraintes du Arduino qui sont la limite de 
+mémoire et tout ce qui l'entoure
+
+## VII- Responsabilités liées à la publication du code :
+7-1 Responsabiltés
+
+
+
+
+
+
+
 
 
