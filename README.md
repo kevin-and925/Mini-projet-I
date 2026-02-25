@@ -6,7 +6,7 @@ OMOUALA André Kevin(OMOA15099900)
 BOCOUM Aoua(BOCA65570200)
 Agossou Fulbert(AGOF722040000)
 
-## Description du Mini-Projet-I
+## Objectif du Mini-Projet-I
 Dans ce projet, on va devoir créer un système d'analayse des sentiments
 qui sera capable de donner les avis ainsi que les critiques des films 
 qui sont contenue dans le fichier IMDB. Notre système va devoir être 
